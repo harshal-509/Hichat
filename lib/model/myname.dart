@@ -1,3 +1,3 @@
 class Name {
-  static String myname="";
+  static String myname = "";
 }
